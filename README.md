@@ -1,2 +1,2 @@
 # AutoLISP
-My AutiLISP stuff, I use and develop randomly
+My AutoLISP stuff, I use and develop randomly
